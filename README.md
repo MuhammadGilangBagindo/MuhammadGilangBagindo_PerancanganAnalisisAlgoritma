@@ -1,2 +1,2 @@
-# MuhammadGilangBagindo_PerancanganAnalisisAlgoritma
-Repository untuk Mata Kuliah Perancangan dan Analisis Algoritma
+# Perancangan dan Analisis Algoritma
+## Repository untuk Mata Kuliah Perancangan dan Analisis Algoritma
